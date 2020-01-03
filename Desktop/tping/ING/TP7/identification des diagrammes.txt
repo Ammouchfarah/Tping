@@ -1,0 +1,14 @@
+les diagrammes statiques:
+_diagramme de classe
+_diagramme d'objet
+_diagramme de composant
+_diagramme de deploiment
+_diagramme de paquetage
+_diagramme de structure composite
+les diagrammes de comportement:
+_diagramme de cas d'utilisation 
+_diagramme d'activité
+_diagramme de sequence
+_diagramme de communication
+_diagramme de temp
+_diagramme global d'interaction
